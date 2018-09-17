@@ -1,11 +1,7 @@
 {
-  "presets": [
-    "es2016",
-    "react-native"
+  "presets": ["module:metro-react-native-babel-preset"],
+  "plugins": [
+      ["flow-react-proptypes"]
   ],
-  "env": {
-    "plugins": [
-      "flow-react-proptypes"
-    ]
-  }
+  "sourceMaps": true
 }
