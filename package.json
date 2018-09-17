@@ -33,7 +33,7 @@
     "@babel/preset-env": "^7.0.0",
     "metro-react-native-babel-preset": "^0.45.3",
     "prop-types": "^15.6.2",
-    "react-native-popup-dialog": "^0.15.0",
+    "react-native-popup-dialog": "^0.9.35",
     "react-native-root-siblings": "radko93/react-native-root-siblings#babel-patch"
   },
   "devDependencies": {
